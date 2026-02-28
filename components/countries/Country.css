@@ -1,0 +1,14 @@
+.country {
+    margin: 10px;
+    border: 2px dotted pink;
+    padding: 4px;
+}
+
+.country-visited {
+    background-color: rgb(221, 136, 32);
+}
+
+.button {
+    display: flex;
+    gap: 10px;
+}
